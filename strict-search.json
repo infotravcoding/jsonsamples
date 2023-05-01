@@ -1,0 +1,13 @@
+{
+    "Residency": "US",
+    "Stay": {
+        "CheckIn": "2023-09-30T00:00:00-03:00",
+        "CheckOut": "2023-10-07T00:00:00-03:00"
+    },
+    "Properties": ["3858277"],
+    "Occupancy": {
+        "Adults": 2,
+        "Childrens": 0
+    },
+    "Bedrooms": 1
+}
